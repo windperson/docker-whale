@@ -1,2 +1,2 @@
 # docker-whale
-docker file demo project
+Docker "Whale Say" practice repo from old docker tutorial.
